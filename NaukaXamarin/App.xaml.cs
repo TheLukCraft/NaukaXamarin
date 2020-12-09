@@ -10,7 +10,7 @@ namespace NaukaXamarin
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new HierarchyNav());
+            MainPage = new Accessing_element();
         }
 
         protected override void OnStart()
